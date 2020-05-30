@@ -18,3 +18,5 @@
     </author>
 
 </widget>
+
+<preference name="android-minSdkVersion" value="14" />
